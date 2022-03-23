@@ -4,7 +4,7 @@ subtitle: "How a person's identity defines their feelings."
 author: 
   - Shengyi Dai
   - Suofeiya Guo
-thanks: "Code and data are available at: https://github.com/celinadai/paper-3.git."
+thanks: "Code and data are available at: https://github.com/celinadai/STA304-Paper3.git."
 date: "`r format(Sys.time(), '%d %B %Y')`"
 abstract: "We observed the relationships between income and the feelings in U.S. 2021 GSS. We found that a higher degree might cause higher income for many people, however, high income is not straightly caused happiness. People all over the world care about income and happiness index, so we specifically study the relationship between these variables. This report that most people don't derive happiness from just a high income."
 output:
